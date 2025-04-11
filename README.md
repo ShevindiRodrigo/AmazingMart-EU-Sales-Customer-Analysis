@@ -90,7 +90,7 @@ This project reflects core data analytics capabilities:
 - Direct applicability to business strategy and decision-making
 
 ---
-![image](https://github.com/user-attachments/assets/e6440d34-e804-48b1-bc9c-6056f7c6e915)
+![image](https://github.com/user-attachments/assets/3461691e-e862-4e95-820c-775efe72ebe6)
 
 > **Tools Used:** Microsoft Excel (PivotTables, charts, formulas), data cleaning techniques  
 > **Duration:** 1–2 weeks  
