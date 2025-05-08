@@ -90,7 +90,7 @@ This project reflects core data analytics capabilities:
 - Direct applicability to business strategy and decision-making
 
 ---
-![image](AmazingMart-EU -dashboard.png)
+![AmazingMart EU Dashboard](AmazingMart-EU-dashboard.png)
 
 > **Tools Used:** Microsoft Excel (PivotTables, charts, formulas), data cleaning techniques  
 > **Duration:** 1–2 weeks  
